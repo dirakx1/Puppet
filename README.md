@@ -12,3 +12,7 @@
 
 ## Usage 
 
+* Create inventory to run, commands, plan and tasks for different targets. 
+
+
+
